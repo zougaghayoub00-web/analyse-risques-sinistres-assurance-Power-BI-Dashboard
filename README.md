@@ -1,7 +1,7 @@
 # Analyse des risques et sinistres assurance – Power BI Dashboard
 
-![Aperçu du Dashboard](dashboard-preview.png)
 
+---
 ##  Présentation du projet
 
 Ce projet consiste à développer un tableau de bord interactif sous Power BI permettant d’analyser les polices d’assurance automobile et les sinistres associés.
@@ -12,7 +12,7 @@ L’objectif est d’aider une compagnie d’assurance à mieux comprendre :
 - les segments clients à risque
 - l’exposition financière globale
 
----
+![Aperçu du Dashboard](dashboard-preview.png)
 
 ##  Objectifs métier
 
